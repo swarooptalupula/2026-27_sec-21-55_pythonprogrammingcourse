@@ -1,2 +1,8 @@
-# 2026-27_sec-21-55_pythonprogrammingcourse
-python programming content
+
+#python programming course
+
+-Institution: NRIU
+-Academic Year: 2026-27
+-Section: sec-21
+-Serial Number55
+-Student Name: Swaroop
